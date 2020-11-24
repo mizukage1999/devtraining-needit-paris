@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="66" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="x_58872_needit_u_calendar_date_time_1" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="End date" max_length="40" name="x_58872_needit_u_calendar_date_time_2" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Start date" max_length="40" name="x_58872_needit_u_glide_date_4" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="End date" max_length="40" name="x_58872_needit_u_glide_date_5" type="glide_date"/>
+    </element>
+</database>
